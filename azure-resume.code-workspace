@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "azure-resume",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Ceevee_2_0_0"
+  }
+}
